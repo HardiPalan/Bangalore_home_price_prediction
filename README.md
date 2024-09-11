@@ -37,7 +37,6 @@ Several machine learning algorithms were employed to build predictive models, in
 1. **Linear Regression**: Simple and interpretable model for a baseline prediction.
 2. **Lasso Regression**: To manage overfitting and select important features.
 3. **Decision Tree**: For capturing non-linear relationships in the data.
-4. **Random Forest**: An ensemble method to improve accuracy by averaging multiple decision trees.
 
 Key evaluation metrics:
 - **R² Score**
